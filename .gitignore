@@ -1,2 +1,11 @@
+# Arquivos do projeto
+*.idea
+
+# Arquivos pycache
+*__pycache__
+
 # Checkpoints ipynb
 *.ipynb_checkpoints
+
+# R History
+*.Rhistory
