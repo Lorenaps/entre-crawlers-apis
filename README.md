@@ -1,25 +1,18 @@
-# entre_crawlers_apis
-
-Workshop para o CODA.BR 2019 
-
-O objetivo desse workshop é introduzir a o acesso a API’s como a do Github e a da câmara dos deputados, bem como introduzir a utilização da ferrameta Scrapy para o desenvolvimento de crawlers.
+# Entre APIs e Crawlers: Como sobreviver quando a informação não está em um .csv
 
 
-## Procurando por notícias
-- https://newsapi.org/s/google-news-br-api
-- https://medium.com/rakuten-rapidapi/top-10-best-news-apis-google-news-bloomberg-bing-news-and-more-bbf3e6e46af6
-- https://news.google.com/?hl=en-US&gl=US&ceid=US:en
+Workshop para o [CODA.BR 2019](https://coda.escoladedados.org/).
 
-Referências sobre o workshop:
-- []()
-- []()
+O objetivo desse workshop é introduzir o acesso a API’s (Application Programming Interface) que são uma espécie de interface com os dados de determinada aplicação, a exemplo da API do Github e da câmara dos deputados, bem como introduzir a utilização da ferramenta Scrapy para o desenvolvimento de crawlers.
 
-Câmara:
 
-https://dadosabertos.camara.leg.br/swagger/api.html
-https://www2.camara.leg.br/transparencia/dados-abertos/dados-abertos-legislativo
+#### Referências sobre o workshop:
+- [News API](https://newsapi.org/s/google-news-br-api)
+- [Google News](https://news.google.com/?hl=pt-BR&gl=BR&ceid=BR:pt-419)
+- [Scrapy](https://scrapy.org/)
+- [Documentação Scrapy](https://docs.scrapy.org/en/latest/)
 
-Referências de materiais de outras edições do CODABR:
+#### Referências de materiais de outras edições do CODABR:
 - [Iluminando o mar de dados - Uma introdução a Python para análise de dados - Caroline Dantas](https://github.com/Caaddss/coda.br_workshop/blob/master/Coda.br.ipynb)
 - [Análise de Dados Públicos com Pandas (Básico Python + Pandas) - Fernando Massanouri](https://www.dropbox.com/s/84jveh6gp1m0579/masanoripybr14.txt?dl=0)
 - [Todas as apresentações do Coda.Br 2018 reunidas em um só lugar](https://escoladedados.org/2018/11/apresentacoes-codabr-2018/)
