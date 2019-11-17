@@ -11,6 +11,7 @@ O objetivo desse workshop é introduzir o acesso a API’s (Application Programm
 - [Google News](https://news.google.com/?hl=pt-BR&gl=BR&ceid=BR:pt-419)
 - [Scrapy](https://scrapy.org/)
 - [Documentação Scrapy](https://docs.scrapy.org/en/latest/)
+- [API Câmara Municipal de São Paulo](http://splegisws.camara.sp.gov.br/ws/ws2.asmx)
 
 #### Referências de materiais de outras edições do CODABR:
 - [Iluminando o mar de dados - Uma introdução a Python para análise de dados - Caroline Dantas](https://github.com/Caaddss/coda.br_workshop/blob/master/Coda.br.ipynb)
