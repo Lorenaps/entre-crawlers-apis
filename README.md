@@ -1,9 +1,9 @@
-# Entre APIs e Crawlers: Como sobreviver quando a informação não está em um .csv
+# Entre Crawlers e APIs: Como sobreviver quando a informação não está em um .csv
 
 
 Workshop para o [CODA.BR 2019](https://coda.escoladedados.org/).
 
-O objetivo desse workshop é introduzir o acesso a API’s (Application Programming Interface) que são uma espécie de interface com os dados de determinada aplicação, a exemplo da API da [Câmara dos Deputados](https://dadosabertos.camara.leg.br/swagger/api.html), bem como introduzir a utilização da ferramenta Scrapy para o desenvolvimento de crawlers.
+O objetivo desse workshop é introduzir o acesso a API’s (Application Programming Interface) que são uma espécie de interface com os dados de determinada aplicação, bem como introduzir a utilização da ferramenta Scrapy para o desenvolvimento de crawlers.
 
 ### Saiba mais:
 
@@ -16,7 +16,7 @@ Marlesson Santana](https://medium.com/@marlessonsantana/utilizando-o-scrapy-do-p
 - [Dados Abertos - Câmara dos Deputados](https://dadosabertos.camara.leg.br/swagger/api.html)
 - [Introdução ao XPath para raspagem de dados em HTML](https://escoladedados.org/tutoriais/xpath-para-raspagem-de-dados-em-html/)
 - [Introdução ao JSON](http://www.json.org/json-pt.html)
-- [ O básico: O que é HTML?](https://tableless.com.br/o-que-html-basico/)
+- [O básico: O que é HTML?](https://tableless.com.br/o-que-html-basico/)
 
 #### Referências de materiais de outras edições do CODABR:
 - [Iluminando o mar de dados - Uma introdução a Python para análise de dados - Caroline Dantas](https://github.com/Caaddss/coda.br_workshop/blob/master/Coda.br.ipynb)
