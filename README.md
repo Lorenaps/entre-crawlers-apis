@@ -13,6 +13,10 @@ Marlesson Santana](https://medium.com/@marlessonsantana/utilizando-o-scrapy-do-p
 - [Scrapy](https://scrapy.org/)
 - [Documentação Scrapy](https://docs.scrapy.org/en/latest/)
 - [API Câmara Municipal de São Paulo](http://splegisws.camara.sp.gov.br/ws/ws2.asmx)
+- [Dados Abertos - Câmara dos Deputados](https://dadosabertos.camara.leg.br/swagger/api.html)
+- [Introdução ao XPath para raspagem de dados em HTML](https://escoladedados.org/tutoriais/xpath-para-raspagem-de-dados-em-html/)
+- [Introdução ao JSON](http://www.json.org/json-pt.html)
+- [ O básico: O que é HTML?](https://tableless.com.br/o-que-html-basico/)
 
 #### Referências de materiais de outras edições do CODABR:
 - [Iluminando o mar de dados - Uma introdução a Python para análise de dados - Caroline Dantas](https://github.com/Caaddss/coda.br_workshop/blob/master/Coda.br.ipynb)
